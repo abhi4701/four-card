@@ -1,0 +1,126 @@
+body{
+background-color:#f0f5f5;
+}
+
+p{
+  font-size: 13px;
+  font-weight:normal;
+  font-style: normal;
+  color: #bac7a7;
+}
+h3{
+  font-size: 20px;
+}
+.first{
+  font-size: 16px;
+}
+.first1{
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+
+.header{
+  text-align: center;
+
+}
+
+.foot{
+  position: relative;
+top: 210px;
+}
+
+
+
+
+.dot{
+  text-align: center;
+  line-height: 1.5em;
+  word-spacing: 1px;
+}
+
+.main{
+  margin-top: 50px;
+  text-align: center;
+  
+
+}
+.Supervisor{
+  padding:3px;
+  text-align: left;
+  background-color:#ffffff;
+  display: inline-block;
+  height: 150px;
+  width: 190px;
+  position: relative;
+  left: 105px;
+  top: 90px;
+  border-top-style: solid;
+  border-top-width: 3px;
+  border-color: #96d1c7
+}
+.Builder{
+  background-color:#ffffff;
+  display: inline-block;
+  height: 150px;
+  width: 190px;
+  padding: 3px;
+  position: relative;
+  left:  125px;
+  border-top-style: solid;
+  border-top-width: 3px;
+  border-color: #c9485b;
+}
+.Karma{
+  background-color:#ffffff;
+  display: inline-block;
+  height: 150px;
+  width: 190px;
+  padding: 3px;
+  position: relative;
+  top: 180px;
+  right: 76px;
+  border-top-style: solid;
+  border-top-width: 3px;
+  border-color: #f7d695;
+}
+
+.Calculator{
+  background-color:#ffffff;
+  display: inline-block;
+  height: 150px;
+  width: 190px;
+  padding: 3px;
+  position: relative;
+  top: 90px;
+  right: 55px;
+  border-top-style: solid;
+  border-top-width: 3px;
+  border-color: #40bfc1;
+}
+
+.image1{
+  height: 30px;
+  position: relative;
+left: 150px;
+top: 10px;
+}
+
+.image4{
+  height: 28px;
+  position: relative;
+  left: 63px;
+  top: 8px;
+}
+.image3{
+  position: relative;
+left: 70px;
+  height: 33px;
+  top: 10px;
+}
+
+.image2{
+  position: relative;
+left: 65px;
+  height: 28px;
+  top:8px;
+}
